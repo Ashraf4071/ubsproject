@@ -1,0 +1,59 @@
+.linkdash{
+    padding: 10px;
+    font-size: 18px;
+    margin: 10px 0;
+    background-color: #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+  
+    &:hover {
+      background-color: #ccc;
+    }
+}
+
+.linkcourse{
+    padding: 10px;
+    font-size: 18px;
+    margin: 10px 0;
+    background-color: #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+  
+    &:hover {
+      background-color: #ccc;
+    }
+}
+
+.linkassignments{
+    padding: 10px;
+    font-size: 18px;
+    margin: 10px 0;
+    background-color: #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+  
+    &:hover {
+      background-color: #ccc;
+    }
+}
+
+.linkgrade{
+    padding: 10px;
+    font-size: 18px;
+    margin: 10px 0;
+    background-color: #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+  
+    &:hover {
+      background-color: #ccc;
+    }
+}
